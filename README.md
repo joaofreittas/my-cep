@@ -1,5 +1,7 @@
 # my-cep
 
+Para acessar o app: [meucep.vercel.com](https://my-cep-6vgpmq3wa-joaofreittas.vercel.app/)
+
 ## Build Setup
 
 ```bash
